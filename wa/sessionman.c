@@ -220,7 +220,7 @@ void send_all(int i, int n)
 
     // get time
     t_send = time(NULL);
-    strftime(date, sizeof(date), "@%m/%d.%H:%M", localtime(&t_send));
+    strftime(date, sizeof(date), "@%H:%M", localtime(&t_send));
 
     if (i < 0) // system
     {
