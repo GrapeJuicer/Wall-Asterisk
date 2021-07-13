@@ -3,7 +3,7 @@
 // #include <signal.h>
 #include "commands.h"
 
-#define VERSION "1.0.0"
+#define VERSION "1.0.1"
 
 // ./c ip username
 int main(int argc, char *argv[])

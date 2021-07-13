@@ -1,4 +1,4 @@
-# Wall-Asterisk
+# Wall-Asterisk 1.0.1
 Wall **** is a local chat.
 
 # Environment

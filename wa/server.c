@@ -6,7 +6,7 @@
 
 #define SELF_PORT 50002
 
-#define VERSION "1.0.0"
+#define VERSION "1.0.1"
 
 int main(int argc, char *argv[])
 {
