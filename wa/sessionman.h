@@ -14,7 +14,7 @@
 // definition
 
 #define PORT (in_port_t)50002
-#define MAX_ATTENDANTS 20
+#define MAX_ATTENDANTS 100
 #define BUF_LEN 300
 
 // type
